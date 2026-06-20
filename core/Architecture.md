@@ -1,37 +1,114 @@
-0. 基础设施层 (Infrastructure) —— 系统的底层固件
-这是整个 Life OS 的“操作系统”和“持久化数据库”，不负责产生具体业务，但决定了其他所有系统能否稳定运行。
+# Architecture — Life OS Layers
 
-数据存储 (Storage): 以 Obsidian 作为单一真理源（Single Source of Truth）。通过 GitHub 保证多端同步与版本控制。所有子系统的规则、日志、灵感，全部以结构化双链形式沉淀在此。
+---
 
-调度哲学 (Runtime Engine): 慢练（Slow Practice）。无论是学新技术、练新曲子，还是调整新的生活习惯，初期一律“慢速、精准、降频”，直到系统内化成自动化脚本（习惯），再逐渐提速。
+## Layer Map
 
-总线机制 (Event Bus): 拒绝日复一日的琐碎打卡，采用 周/月度系统维护机制。定期运行系统自检（健康指标、财务净值、项目进度），根据反馈调整参数。
+```
+┌─────────────────────────────────────────────┐
+│  3. Mind & Evolution Layer                  │  High-value applications
+│     Mental reset / Spatial / AI / Travel    │
+├─────────────────────────────────────────────┤
+│  2. Resource Layer                          │  Material energy & time freedom
+│     Income → Savings → Investing → Review   │
+├─────────────────────────────────────────────┤
+│  1. Hardware Layer                          │  Physical compute capacity
+│     PPL + Climbing + Basketball + Nutrition │
+├─────────────────────────────────────────────┤
+│  0. Infrastructure Layer                    │  Persistent state & runtime engine
+│     Obsidian / GitHub / Weekly Review       │
+└─────────────────────────────────────────────┘
+```
 
-1. 健康与体能层 (Hardware System) —— 系统的硬件算力
-硬件决定了软件的上限。这个系统的目标是打造一个兼具力量、韧性与高能量产出的“身体硬件”。
+Lower layers must be stable before upper layers can run reliably. Hardware failures cascade up.
 
-内核构建 (Core Movement): 采用 PPL (Push-Pull-Legs) 推拉腿分裂训练法，作为纯粹的力量与肌肉基石。
+---
 
-边缘拓展 (Edge Coordination): 引入攀岩和篮球。攀岩用于训练身体在三维空间中的控制力、核心变向以及指力；篮球用于保持爆发力和心肺耐力。
+## Layer 0 — Infrastructure
 
-资源调度 (Energy Management): 结构化高蛋白干净饮食（系统输入） + 深度睡眠（系统重置），确保大脑 CPU 不会因为硬件老化或能量不足而降频。
+**Storage:** Obsidian as single source of truth. GitHub for version control and multi-device sync. All subsystem rules, logs, and insights live here in structured form.
 
-2. 财务与安全层 (Resource System) —— 系统的物质能源
-财务系统不是为了暴富，是为了给生命系统提供抗脆弱性（Antifragile）和时间自由的带宽。
+**Runtime Engine: Slow Practice (慢练)**
 
-安全隔离墙 (Firewall): 设立绝对独立的风险隔离层与充足的现金流储备，确保无论现实世界发生何种波动，系统主干绝不崩溃。
+The system's core execution philosophy. Applied consistently across all domains:
 
-稳健底仓 (Core Holding): 长期主义资产配置，跟随大盘稳健增长，提供系统底部的被动防御力。
+| Domain | Slow practice looks like |
+| ------ | ------------------------ |
+| Technical learning (distributed systems, AI infra) | Build the simplest possible version first. Understand every line before adding complexity. Can you explain it from first principles? If not, slow down. |
+| Instrument (guqin / cello) | Play at 60% tempo until muscle memory is clean. Speed is a byproduct, not a target. |
+| Investment | Don't trade until you can fully articulate the thesis and its failure conditions. |
+| Physical training | Add load only when current load feels controlled. Never chase numbers. |
 
-动态进取 (Active Strategy): 发挥数理与工程优势，构建基于 Python 的多因子量化交易系统。通过算法与自动化策略捕捉小盘股等市场红利，作为系统资金的加速器，但严格限制仓位与风险边界。
+**Rule:** Never move to the next layer of complexity until the current one is internalized as automatic.
 
-3. 心智与演进层 (Mind & Evolution System) —— 系统的终极应用
-当硬件（健康）和能源（财务）都实现自动化高可用后，所有的系统带宽都用来运行这个层面的“高价值应用”。
+**Event Bus:** Weekly and monthly system reviews (see `Review.md`). No daily checklists — reviews are the maintenance windows.
 
-精神回舱 (Reset Buffer): 每日/周固定拨出时间给古琴或大提琴。在乐器的慢练中，切断所有外界高频信号的干扰，让大脑进入绝对专注的冥想状态，清理心智内存。
+---
 
-空间与创造 (Spatial Language): 利用 Blender 进行 3D UI 与产品建模，将具象的“空间思维”转化为视觉生产力，打破纯文本编程的单一维度。
+## Layer 1 — Hardware (Health System)
 
-战略演进 (Strategic Evolution): 聚焦前沿 AI 基础设施、分布式架构及多智能体（Agent）系统的深度研发，推动职场与技术生态向 Principal 级别演进。
+硬件决定了软件的上限。
 
-空间打破 (Global Load Balancing): 定期通过跨国或跨地域的旅行（Travel System），将自己抛入全新的环境坐标系中，实现心智系统的“全局负载均衡”与视角刷新。
+- **Core Movement:** PPL (Push-Pull-Legs) — strength and muscle foundation
+- **Edge Coordination:** Climbing (3D spatial control, grip, core) + Basketball (explosive cardio)
+- **Energy Management:** High-protein clean diet (input) + deep sleep (reset)
+
+---
+
+## Layer 2 — Resource (Finance System)
+
+目标不是暴富，而是抗脆弱性和时间自由。
+
+- **Firewall:** Independent risk isolation layer + minimum cash reserve. System core never goes below this threshold.
+- **Core Holding:** Long-term index positions. Passive defense. Low maintenance cost.
+- **Active Strategy (quant system):** Python multi-factor system targeting small-cap inefficiencies.
+
+**Important:** The quant system is a mind-layer project wearing a resource-layer hat. Building and maintaining it draws from the same cognitive budget as deep work. Be honest about this:
+- Treat quant system development as a **Mind Layer project** with a resource-layer output
+- Set a hard ceiling on weekly time budget (e.g., 5 hrs/week) so it doesn't crowd out other mind-layer work
+- If it demands more than the budget, it's in active development phase — not passive infrastructure yet
+
+See `investment/` for the full investment learning roadmap and daily practice protocol.
+
+---
+
+## Layer 3 — Mind & Evolution
+
+当硬件和能源都稳定后，所有带宽运行这里。
+
+- **Mental Reset:** Guqin or cello — cuts high-frequency noise, enters deep focus state, clears cognitive memory
+- **Spatial Language:** Blender for 3D modeling — converts spatial thinking into visual productivity, breaks single-dimension of text/code
+- **Strategic Evolution:** AI infrastructure, distributed systems, multi-agent architecture — drives Principal-level career trajectory
+- **Global Rebalancing:** Travel — forces perspective reset, new environmental coordinates
+
+---
+
+## Inter-System Dependencies & Failure Modes
+
+The system fails predictably along these paths. Know them before they happen.
+
+```
+Sleep degrades
+  └──► Cognitive capacity drops
+        └──► Quant system makes worse decisions
+              └──► Resource layer volatility increases
+                    └──► Financial stress enters Mind layer
+
+Financial stress spikes
+  └──► Psychological load increases
+        └──► Mind layer can't run high-value applications
+              └──► Career output drops
+                    └──► Income stagnates → loop closes
+
+Physical overtraining
+  └──► Energy management fails
+        └──► Deep work hours collapse
+              └──► All upper layers degrade simultaneously
+```
+
+**Triage priority when things go wrong:**
+1. Fix Hardware layer first (sleep, food, movement)
+2. Then stabilize Resource layer (cash reserve, reduce active risk)
+3. Only then address Mind layer output
+
+The layers are not independent. Fixing the wrong layer wastes effort.
