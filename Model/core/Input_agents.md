@@ -40,3 +40,28 @@
 大脑在干什么： 它是你大脑里的 Watchdog（看门狗进程）。它不负责具体的计算，而是飘在半空中观察你：“我现在的注意力和精力在哪个级别？”、“我当前被卡住是因为用错了 Mental Set 吗？”、“OK，现在还原论心智太累了，切换到实验心智写两行代码看看反馈。”
 
 最佳地形： 掌控整体学习进度、决定何时休息、在遭遇挫败时进行情绪解耦。
+
+
+Object
+│
+├─ Reduction
+├─ Abstraction
+└─ Empiricism
+
+Relationship
+│
+├─ Pattern
+├─ Systems
+└─ Temporal
+
+Agency
+│
+├─ Generative
+├─ Selection
+└─ Social
+
+Meaning
+│
+├─ Phenomenological
+├─ Ethical
+└─ Narrative
