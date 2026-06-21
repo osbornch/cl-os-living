@@ -5,7 +5,8 @@
 
 ## [PHASE] 当前阶段
 <!-- 你现在处于什么人生阶段，几个月才变一次 -->
-建立技术纵深 + 多域并行探索期
+Phase 1 — 建基础（36-38岁）
+核心：AI Infra 从零建基础 + Kids community 找 PMF
 
 ---
 
@@ -14,20 +15,23 @@
 
 | 域 | 当前状态 | 下一步 |
 |----|---------|-------|
-| Career / AI Infra | - | - |
+| Career / AI Infra | 刚开始，后端+数据背景 | 搞清楚 AI 训练全链路 |
+| Venture / Kids community | PMF 阶段，和朋友一起做 | 找10个目标用户做对话，验证痛点 |
+| Venture / App | 探索阶段，卡在 iOS ship 流程 | 搞清楚 App Store 最小上线路径 |
 | Investment | 学财务报表，现金流章节 | 搞清楚利润和现金流的差异本质 |
 | Design | 输出阶段，本周3件作品 | 测试 critique prompt |
 | History | 马略改革，读完了 | 下次从苏拉的反应开始 |
-| Literature | - | - |
 | Physical / 攀岩 | 每周3次 | - |
 | Physical / 篮球 | 暂停 | - |
 | Mental / 琴 | - | - |
-| Explore / Biology | - | - |
 
 ---
 
 ## [LOOPS] 开放的循环
 <!-- 所有没关闭的事，脑子里悬着的 -->
+- [ ] 搞清楚 App Store 最小上线路径
+- [ ] Kids community — 找10个目标用户做痛点对话
+- [ ] AI Infra — 找到工作上和 AI 有交集的切入点
 - [ ] 投资笔记没整理
 - [ ] 设计 critique prompt 需要测试
 - [ ] 攀岩技术动作需要视频复盘
@@ -68,3 +72,4 @@
 | 日期 | 更新了什么 |
 |------|---------|
 | 2026-06-21 | 初始化 snapshot |
+| 2026-06-21 | 加入 Ventures（kids community + app），更新 PHASE 和 LOOPS |
