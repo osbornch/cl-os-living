@@ -69,6 +69,40 @@ Match the task to the right mental set (`Input_agents.md`):
 
 ---
 
+## Daily Cognitive Order
+> 认知资源是有限的，顺序错了效率减半。
+
+```
+早上（前额叶最活跃）
+→ 大提琴 30min（flow priming）
+   不看手机，不开邮件
+   用已熟悉的技能把大脑带进专注状态
+
+→ Design 30min（趁专注状态未散）
+   今日唯一的核心问题，AI Infra、kids community 的关键决策
+   output = 今日唯一那一行字
+
+上午中段（认知成本中等）
+→ 输入（30min investment / 30min design）
+   学习前：「我今天想搞清楚什么问题？」
+   学习后：「搞清楚了吗？还有什么没懂？」
+→ Ambiguity Handling
+   处理 iOS ship、kids community 的具体 ambiguity
+   Design 先想清楚，Ambiguity 才有边界
+
+下午（执行为主）
+→ Execution
+   写代码、记录、整理、routine 任务
+
+晚上（前额叶耗尽）
+→ Recovery / 被动输入
+   攀岩、阅读、音乐，不做需要深度思考的事
+```
+
+**原则：Design 给 Ambiguity 划边界，没有 Design 的 Ambiguity 是无限的。**
+
+---
+
 ## Step 5 — Close the Loop
 
 At the end of each session (not each day — each session):
