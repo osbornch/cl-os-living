@@ -71,3 +71,4 @@ os-living/
 ---
 
 *y = compound(知 × 行 × time)*
+# os-living
