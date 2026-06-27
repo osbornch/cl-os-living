@@ -1,6 +1,6 @@
 
-# Topic Sony Walkman 
-
+# Topic 
+[placeholder]
 
 # Universal Design Critique Prompt
 

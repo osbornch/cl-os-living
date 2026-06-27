@@ -1,28 +1,22 @@
-# os-living
+知 = model
 
-> 知行合一。Model 是知，Reality 是行，系统的任务是让两者对齐。
+行 = reality
 
-**核心驱动：** 永远不必因为钱接受我不认同的条件。
-**锚点：** 46岁，完全自主地活着。
+合一
 
----
+y = compound(f(x, time, energy))
 
-## 怎么用这个系统
+f = Orchestrator(认知（create, search, alignment, update))
 
-**每天开始：**
-1. 打开 `orchestrator/snapshot.md` — 30秒重建上下文
-2. 看 `orchestrator/DAG.md` — 根据能量和时间决定做什么
-3. 做完一件事 → 一句话记到对应的 `Reality/` 文件夹
+x = health system, financial system, relation system， inner system, environment system, creative system
 
-**每周日：**
-- 打开当前 Quarter 文件（如 `orchestrator/Q3-2026.md`）
-- 回答3个问题，更新 snapshot
+y = 充实，happiness，有成就，内圣外王
 
-**每季度末：**
-- 复盘当前 Quarter，复制 `QUARTER_TEMPLATE.md` 开启下一个
+充实感 = 意义 × 成长 × 投入 × 连接
 
-**每年12月：**
-- 运行 `YEAR_TEMPLATE.md`，校准方向
+充实感是精神系统在告诉你：
+
+你的生命正在被正确使用。
 
 ---
 
