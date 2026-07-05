@@ -4,6 +4,7 @@ Quick Play
     视奏一首新曲子
     看一个新的认知心理学概念
     画一种材质
+    NBA 2K
 Explore Play
     去一个新咖啡馆
     去一个新公园
@@ -18,6 +19,7 @@ Deep Play
     素描
     围棋
     攀岩
+    文明6
 Connect Play
     和朋友吃饭
     一起爬山
