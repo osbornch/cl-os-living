@@ -44,3 +44,17 @@ Enjoy
 | Recover      | Energy     |
 | Upgrade      | Capability |
 | Connect/Love | Meaning    |
+
+
+Exploring
+Framing
+Scaffolding
+Mapping
+Modeling
+Decomposing
+Prioritizing
+Orchestrating
+Tracking
+Refining
+Automating
+Scaling
