@@ -1,3 +1,8 @@
+Key metric:
+1. 有趣
+
+Pattern:
+
 1. Lost & Found（迷路模式）
 
 规则：
