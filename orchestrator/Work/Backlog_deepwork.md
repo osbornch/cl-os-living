@@ -9,6 +9,13 @@ Income Portfolio
     Trip Visual
     SaaS
 
+    Life
+
+    Education
+
+    Health
+        Hearing
+
 3. Audience
     Youtube
     Book
