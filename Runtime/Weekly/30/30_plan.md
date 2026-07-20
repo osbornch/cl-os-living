@@ -1,6 +1,6 @@
 Monday
 1. Deep work: 
-    a. Orchestration
+    a. Agent Orchestration study
     b. Scaffolding Youtube 
 
 
