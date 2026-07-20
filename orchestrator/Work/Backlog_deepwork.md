@@ -1,18 +1,35 @@
-Income stream
+
+Income Portfolio
 
 1. Career
+    AI Infrastructure
+    AI Agents
 
-a. AI infra
-    1. SGlang omni
+2. Products
+    Trip Visual
+    SaaS
 
-b. AI agents
-    1. Orchestration
+3. Audience
+    Youtube
+    Book
+    Personal IP
 
-2. Investment
+4. Services
+    Tech Consulting
 
-3. App
-a. trip visual 
+5. Capital
+    Investment
+    Real Estate
 
-4. Youtube
-  
-5. Real estate agent
+
+每天至少有一个"可永久保存"的产出。
+
+例如：
+
+一篇笔记
+一个 Diagram
+一个 GitHub Commit
+一本书的一页
+一个 Demo
+一个视频脚本
+一个投资分析
