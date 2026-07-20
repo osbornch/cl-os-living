@@ -11,6 +11,7 @@ b. AI agents
 2. Investment
 
 3. App
+a. trip visual 
 
 4. Youtube
   
