@@ -21,15 +21,10 @@ Income Portfolio
     Investment
     Real Estate
 
-
-每天至少有一个"可永久保存"的产出。
-
-例如：
-
-一篇笔记
-一个 Diagram
-一个 GitHub Commit
-一本书的一页
-一个 Demo
-一个视频脚本
-一个投资分析
+周主题
+AI Infrastructure
+AI Agents
+Trip Visual
+Content（Book + YouTube + IP）
+Consulting（服务设计、案例、销售）
+Investing（研究）
