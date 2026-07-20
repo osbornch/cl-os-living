@@ -1,7 +1,14 @@
 Monday
 1. Deep work: 
-    a. Agent Orchestration study
-    b. Scaffolding Youtube 
+    a. New income stream: 
+        a. Scaffolding Youtube 
+    
+    b. New job:
+        a. Agent Orchestration study
+        b. Finish system design problem
+
+    c. Investment system improvement
+        a. 
 
 
 Tuesday
