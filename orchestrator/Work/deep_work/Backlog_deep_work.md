@@ -1,29 +1,26 @@
-Pain
-    What must disappear?
+Daily Deep Work
 
-Anti Vision
-    What future must never happen?
+1. What is consuming my cognitive bandwidth?
+   什么正在占据我的认知带宽？
 
-Question
-    What is the most important question?
+2. What is the most important uncertainty?
+   最重要的不确定性是什么？
 
-Opportunity
-    What creates the most value?
+3. What is the real question?
+   真正的问题是什么？
 
-System
-    What system am I building?
+4. What is the structure?
+   它背后的结构是什么？
 
-Identity
-    Who am I becoming?
+5. What decision or action closes the loop?
+   什么决策或行动可以关闭线程？
 
-Lifestyle
-    What does that person do daily?
+6. Where should the released bandwidth go?
+   释放出的认知带宽应该投入哪里？
 
-Energy
-    What makes me feel alive?
 
-Responsibility
-    Who am I doing this for?
+Output A
+Close one important loop
 
-Legacy
-    What will remain after I'm gone?
+Output B
+Build one compounding asset
