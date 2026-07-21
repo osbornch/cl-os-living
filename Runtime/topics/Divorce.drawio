@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="_i2R3aD7vtkI807dlSMM">
+    <mxGraphModel dx="1414" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Loss（失去）" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fairness（公平）" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Agency（掌控感）" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Identity（身份）" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Agency（掌控感）" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Attachment（依恋）" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Future uncertainty（未来不确定性）" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Status（社会评价）" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Violation（被侵犯感）" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;" value="离婚痛苦" vertex="1">
+          <mxGeometry height="60" width="180" x="1200" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Loss 失去" vertex="1">
+          <mxGeometry height="60" width="150" x="742" y="823.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Uncertainty 不确定性" vertex="1">
+          <mxGeometry height="60" width="150" x="922" y="823.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Fairness 公平感" vertex="1">
+          <mxGeometry height="60" width="150" x="1102" y="823.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Agency 掌控感" vertex="1">
+          <mxGeometry height="60" width="150" x="1282" y="823.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Identity 身份认同" vertex="1">
+          <mxGeometry height="60" width="150" x="1462" y="823.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Moral Injury 道德受伤" vertex="1">
+          <mxGeometry height="60" width="150" x="1642" y="823.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Chronic Stress 持续压力" vertex="1">
+          <mxGeometry height="60" width="150" x="1822" y="823.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="家庭" vertex="1">
+          <mxGeometry height="45" width="90" x="727" y="953.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="每天陪孩子" vertex="1">
+          <mxGeometry height="45" width="110" x="822" y="953.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="财务" vertex="1">
+          <mxGeometry height="45" width="80" x="902" y="953.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="房子" vertex="1">
+          <mxGeometry height="45" width="80" x="987" y="953.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="抚养安排" vertex="1">
+          <mxGeometry height="45" width="100" x="1072" y="953.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="感觉自己一直在让步" vertex="1">
+          <mxGeometry height="45" width="160" x="1127" y="953.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="被法律流程推动" vertex="1">
+          <mxGeometry height="45" width="140" x="1292" y="953.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="从“丈夫 / 完整家庭” 转向新的自我定义" vertex="1">
+          <mxGeometry height="60" width="165" x="1457" y="953.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="信任感受损" vertex="1">
+          <mxGeometry height="45" width="120" x="1667" y="953.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="持续半年以上 无法关闭" vertex="1">
+          <mxGeometry height="60" width="110" x="1842" y="953.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-30" edge="1" parent="1" source="Wg44cCBHDWJb-jp23g8v-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="Wg44cCBHDWJb-jp23g8v-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-31" edge="1" parent="1" source="Wg44cCBHDWJb-jp23g8v-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="Wg44cCBHDWJb-jp23g8v-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-32" edge="1" parent="1" source="Wg44cCBHDWJb-jp23g8v-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="Wg44cCBHDWJb-jp23g8v-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-33" edge="1" parent="1" source="Wg44cCBHDWJb-jp23g8v-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="Wg44cCBHDWJb-jp23g8v-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-34" edge="1" parent="1" source="Wg44cCBHDWJb-jp23g8v-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="Wg44cCBHDWJb-jp23g8v-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-35" edge="1" parent="1" source="Wg44cCBHDWJb-jp23g8v-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="Wg44cCBHDWJb-jp23g8v-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-36" edge="1" parent="1" source="Wg44cCBHDWJb-jp23g8v-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="Wg44cCBHDWJb-jp23g8v-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-37" edge="1" parent="1" source="Wg44cCBHDWJb-jp23g8v-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="Wg44cCBHDWJb-jp23g8v-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-38" edge="1" parent="1" source="Wg44cCBHDWJb-jp23g8v-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="Wg44cCBHDWJb-jp23g8v-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-39" edge="1" parent="1" source="Wg44cCBHDWJb-jp23g8v-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="Wg44cCBHDWJb-jp23g8v-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-40" edge="1" parent="1" source="Wg44cCBHDWJb-jp23g8v-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="Wg44cCBHDWJb-jp23g8v-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-41" edge="1" parent="1" source="Wg44cCBHDWJb-jp23g8v-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="Wg44cCBHDWJb-jp23g8v-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-42" edge="1" parent="1" source="Wg44cCBHDWJb-jp23g8v-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="Wg44cCBHDWJb-jp23g8v-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-43" edge="1" parent="1" source="Wg44cCBHDWJb-jp23g8v-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="Wg44cCBHDWJb-jp23g8v-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-44" edge="1" parent="1" source="Wg44cCBHDWJb-jp23g8v-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="Wg44cCBHDWJb-jp23g8v-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-45" edge="1" parent="1" source="Wg44cCBHDWJb-jp23g8v-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="Wg44cCBHDWJb-jp23g8v-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg44cCBHDWJb-jp23g8v-46" edge="1" parent="1" source="Wg44cCBHDWJb-jp23g8v-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="Wg44cCBHDWJb-jp23g8v-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
