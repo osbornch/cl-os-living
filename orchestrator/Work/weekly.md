@@ -1,3 +1,5 @@
+Tues     Planning
+
 Fri      Reflect + Wellness + Presence
 
 Sat      play+ explore/adventure+ Grow + connect
