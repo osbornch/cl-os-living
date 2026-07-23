@@ -1,14 +1,7 @@
-Functional Requirement
+起
 
-Non Functional Requirement
+承
 
-Core entities
+转
 
-Component
-
-API
-
-Database
-
-Deepdive
-
+合
