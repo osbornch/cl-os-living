@@ -1,5 +1,3 @@
-Mon - Thu
-
 | 身份       | 每周产出                 | 训练目标 |
 | -------- | -------------------- | ---- |
 | **企业家**  | 一个商业机会、商业模式或 Asset   | 创造价值 |
@@ -7,16 +5,3 @@ Mon - Thu
 | **工程师**  | 一个 Demo、PR、系统设计或技术文章 | 构建价值 |
 | **文艺青年** | 一首曲子、一幅画、一篇文章、一组摄影   | 感受价值 |
 | **策展人**  | 一段文字、一首音乐、一幅画、一本书的精选 | 沉淀价值 |
-
-
-Fri      Wellness : recover + Presence + ready to play
-
-Sat      play: explore/adventure+ Grow + connect
-
-Sun      Reset : recover + reflect + prune 
-         planning:
-            alignment
-            prune
-        slight build:
-
-
