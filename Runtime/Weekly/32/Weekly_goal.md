@@ -1,5 +1,2 @@
-1. 3天 
-    AI agents 
-
-2. 1天
-    Consulting
+1. Planning for China travel
+2. Interview
