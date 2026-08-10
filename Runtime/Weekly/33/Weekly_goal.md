@@ -3,6 +3,7 @@
     b. App: kids
     c. Skill: Agent design
     d. Story: enigma 波兰
+    e. Code: init pr for sgland-omni
 
 2. Trade asset
     a. Looking into 电力股票
