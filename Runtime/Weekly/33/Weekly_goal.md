@@ -8,7 +8,8 @@
                 a). 
     b. App: kids
         i. Fix Calendar
-        ii. 
+        ii. Fix login
+        iii. Events pipeline
     c. Skill: Agent design
     d. Story: enigma 波兰
     e. Code: init pr for sgland-omni
