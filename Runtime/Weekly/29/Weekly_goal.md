@@ -1,5 +1,9 @@
-1. 3天 
-    AI agents 
-
-2. 1天
-    Consulting
+1. Build positive
+    a. Ack negative
+    a. Release
+    b. Charge
+    d. Build
+    e. Rest
+3. Build asset
+    a. reduce debt
+    b. Build asset

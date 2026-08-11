@@ -1,7 +1,19 @@
 1. Build positive
-    a. Hope
-    b. Joy
-2. Build asset(0-1)
+    a. Ack negative
+    a. Release
+    b. Charge
+    d. Build
+        i. Hope
+        ii. Joy
+    e. Rest
+2. reduce debt
+    a. task debt
+    b. decision debt
+    c. technical debt
+    d. environment debt
+    e. financial debt
+    f. relationship/open-loop debt
+3. Build asset(0-1)
     a. App: trip visualizer
         i. ready for 发布
             1).(done) Make this local version
@@ -18,15 +30,15 @@
     e. Code: init pr for sgland-omni
     f. Tool: agent harness
 
-2. Build asset(1-100)
+4. Build asset(1-100)
     a. 
 
-3. Trade asset
+5. Trade asset
     a. Looking into 电力股票
     b. 理解怎么进行股票波段交易
 
-3. Fun
-    a. Planning for China travel
+6. Integrate asset
 
 4. Life Infrastructure
-    a. Training for driver license
+    a. Planning for China travel
+    b. Training for driver license
