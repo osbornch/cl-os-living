@@ -1,4 +1,7 @@
-1. Build asset(0-1)
+1. Building positive
+    a. 
+
+2. Build asset(0-1)
     a. App: trip visualizer
         i. ready for 发布
             1).(done) Make this local version
@@ -15,15 +18,15 @@
     e. Code: init pr for sgland-omni
     f. Tool: agent harness
 
-2. Build asset(1-100)
+3. Build asset(1-100)
     a. 
 
-3. Trade asset
+4. Trade asset
     a. Looking into 电力股票
     b. 理解怎么进行股票波段交易
 
-3. Fun
+5. Fun
     a. Planning for China travel
 
-4. Life Infrastructure
+6. Life Infrastructure
     a. Training for driver license
