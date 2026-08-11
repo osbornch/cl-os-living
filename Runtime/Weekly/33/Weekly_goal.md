@@ -1,9 +1,9 @@
 1. Build asset(0-1)
     a. App: trip visualizer
         i. ready for 发布
-            1). Make this local version
-            2). Upcoming and draft
-            3). Add yearly review
+            1).(done) Make this local version
+            2).(done) Upcoming and draft
+            3).(done)Add yearly review
             4). Friction optimization
                 a). 
     b. App: kids
