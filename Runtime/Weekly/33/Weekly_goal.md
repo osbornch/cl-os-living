@@ -1,4 +1,7 @@
-1. Build asset(0-1)
+1. Build positive
+    a. Hope
+    b. Joy
+2. Build asset(0-1)
     a. App: trip visualizer
         i. ready for 发布
             1). Make this local version
