@@ -1,4 +1,19 @@
-1. Building positive
+1. Build positive
+    a. Ack negative
+    a. Release
+    b. Charge
+    d. Build
+        i. Hope
+        ii. Joy
+    e. Rest
+2. reduce debt
+    a. task debt
+    b. decision debt
+    c. technical debt
+    d. environment debt
+    e. financial debt
+    f. relationship/open-loop debt
+3. Building positive
     a. 
 
 2. Build asset(0-1)
@@ -18,15 +33,15 @@
     e. Code: init pr for sgland-omni
     f. Tool: agent harness
 
-3. Build asset(1-100)
+4. Build asset(1-100)
     a. 
 
-4. Trade asset
+5. Trade asset
     a. Looking into 电力股票
     b. 理解怎么进行股票波段交易
 
-5. Fun
-    a. Planning for China travel
+6. Integrate asset
 
-6. Life Infrastructure
-    a. Training for driver license
+4. Life Infrastructure
+    a. Planning for China travel
+    b. Training for driver license
