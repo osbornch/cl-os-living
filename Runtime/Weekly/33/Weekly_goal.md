@@ -13,7 +13,10 @@
     d. environment debt
     e. financial debt
     f. relationship/open-loop debt
-3. Build asset(0-1)
+3. Building positive
+    a. 
+
+2. Build asset(0-1)
     a. App: trip visualizer
         i. ready for 发布
             1).(done) Make this local version
