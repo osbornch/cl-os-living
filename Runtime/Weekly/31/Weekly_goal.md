@@ -1,8 +1,9 @@
 1. Build positive
-    a. Hope
-    b. Joy
-1. 3天 
-    AI agents 
-
-2. 1天
-    Consulting
+    a. Ack negative
+    a. Release
+    b. Charge
+    d. Build
+    e. Rest
+3. Build asset
+    a. reduce debt
+    b. Build asset
